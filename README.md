@@ -1,41 +1,5 @@
-# TicTacToe
-
-## Overview
-This project is a simple implementation of the classic TicTacToe game..
-
-## Features
-- Two-player game
-- Simple and intuitive interface
-- Basic game logic implementation
-
-## Requirements
-- Python 3.x
-
-## Installation
-1. Clone the repository:
-    ```bash
-    git clone <repository-url>
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd Aarzoo\ Bansal_Assignment\ 3\ TicTacToe
-    ```
-
-## Usage
-Run the game using the following command:
-```bash
-python tictactoe.py
-```
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any questions or feedback, please contact Aarzoo Bansal.
-
 
 # *TicTacToe*
-
 Project by: **Aarzoo Bansal**
 
 **This project helps you to understand the Server and Client Communication through the tictactoe game.**
@@ -47,7 +11,28 @@ Project by: **Aarzoo Bansal**
 
 
 ## Requirement
-- [X] **Python 3.x**
+- Python 3.x
+
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone git@github.com:Aarzoo-Bansal/ClientServer_TicTacToe.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd <directory>
+    ```
+
+## Usage
+Open terminal in your laptop and run the following command to run the server side program:
+```bash
+python3 tictactoe_server.py
+```
+Open a new terminal window and run the following command to run the client side program:
+```bash
+python3 tictactoe_client.py
+```
+Now you are ready to play the game!
 
 ## Video Walkthrough
 
